@@ -53,4 +53,5 @@ I am a Developer Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ### :fire: My Stats :
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=debasishbsws&theme=default&show_icons=true)
+[![Stats](https://github-stats-alpha.vercel.app/api?username=debasishbsws&cc=222425&tc=fff&ic=fff&bc=222425 "Stats")](https://github-stats-alpha.vercel.app/api?username=debasishbsws&cc=222425&tc=fff&ic=fff&bc=222425 "Stats")
+
