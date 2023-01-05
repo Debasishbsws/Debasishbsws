@@ -22,7 +22,7 @@
 ---
 
 ## :technologist: About Me :
-I am a Developer Student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from INDIA.
+I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from INDIA.
 - :telescope: I’m currently a Student of MCA at NIT Jamshedpur and trying to contribute to Open Source.
 
 - :seedling: Exploring Technical Content Writing, Web Devlopment & DevOps
