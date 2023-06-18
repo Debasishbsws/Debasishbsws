@@ -22,12 +22,10 @@
 ---
 
 ## :technologist: About Me :
-I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from INDIA.
-- :telescope: I’m currently a Student of MCA at NIT Jamshedpur and trying to contribute to Open Source.
+I am an OpenSource Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from INDIA.
+- :telescope: I’m currently a Student of MCA at NIT Jamshedpur and contributing to Open Source.
 
-- :seedling: Exploring Technical Content Writing, Web Devlopment & DevOps
-
-- :zap: In my free time, I laso solve problems on LeetCode Problems and read tech articles.
+- :seedling: Exploring Technical Content Writing, and Learning DevOps Tech.
 
 - :mailbox:How to reach me: [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/debasishbsws)
 
