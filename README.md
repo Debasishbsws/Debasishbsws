@@ -22,7 +22,7 @@
 ---
 
 ## :technologist: About Me :
-I am an OpenSource Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from INDIA.
+I am an Open-Source Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from INDIA.
 - :telescope: I’m currently a Student of MCA at NIT Jamshedpur and contributing to Open Source.
 
 - :seedling: Exploring Technical Content Writing, and Learning DevOps Tech.
