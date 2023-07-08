@@ -6,8 +6,8 @@
   <a href="https://www.linkedin.com/in/debasish-biswas-821b651b0/">
     <img src="https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-    <a href="https://github.com/debasishbsws/">
-    <img src="https://img.shields.io/badge/Portfolio-blueviolet?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Website Badge"/>
+    <a href="https://github.com/debasishbsws/resume/blob/main/Debasish%20Biswas%20-%20Resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-blueviolet?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Website Badge"/>
   </a>
   <a href="https://twitter.com/debasishbsws">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
