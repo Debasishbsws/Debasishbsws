@@ -22,8 +22,10 @@
 ---
 
 ## :technologist: About Me :
-I am an Open-Source Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from INDIA.
-- :telescope: I’m currently a Student of MCA at NIT Jamshedpur and contributing to Open Source.
+I am an Open-Source Contributor <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from INDIA.
+- :telescope: I’m currently a Student of MCA at NIT Jamshedpur and **LOOKING FOR JOBS**.
+
+- :computer: Google Summer of Code 2023 @Knative under @CNCF
 
 - :seedling: Exploring Technical Content Writing, and Learning DevOps Tech.
 
