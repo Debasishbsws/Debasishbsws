@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h1>
- <img src="https://media.giphy.com/media/sO2cxg14iOifAWXsjQ/giphy.gif" alt="" width="100"/>
+ <img src="https://media.giphy.com/media/sO2cxg14iOifAWXsjQ/giphy.gif" alt="Monkey Hi" width="100"/>
   </h1>
   <div id="badges">
   <a href="https://www.linkedin.com/in/debasish-biswas-58a689286/">
@@ -17,11 +17,8 @@
   
 </div>
 
-# Debasish Biswas
+# :technologist: Debasish Biswas
 
----
-
-## :technologist: About Me :
 I am an Open-Source Contributor <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from INDIA.
 - :telescope: I’m currently a Student of MCA at NIT Jamshedpur and **LOOKING FOR JOBS**.
 
