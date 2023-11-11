@@ -1,7 +1,5 @@
 <div id="header" align="center">
-  <h1>
  <img src="https://media.giphy.com/media/sO2cxg14iOifAWXsjQ/giphy.gif" alt="Monkey Hi" width="100"/>
-  </h1>
   <div id="badges">
   <a href="https://www.linkedin.com/in/debasish-biswas-58a689286/">
     <img src="https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -53,4 +51,8 @@ I am an Open-Source Contributor <img src="https://media.giphy.com/media/WUlplcMp
 
 ### :fire: My Stats :
 
-[![Stats](https://github-stats-alpha.vercel.app/api?username=debasishbsws&cc=222425&tc=fff&ic=fff&bc=222425 "Stats")](https://github-stats-alpha.vercel.app/api?username=debasishbsws&cc=222425&tc=fff&ic=fff&bc=222425 "Stats")
+<div style="display: flex; justify-content: space-around;">
+    <img src="https://github-readme-stats.vercel.app/api?username=debasishbsws&show_icons=true&bg_color=00000000" alt="GitHub Stats" />
+    <img src="https://github-stats-alpha.vercel.app/api?username=debasishbsws&cc=222425&tc=fff&ic=fff&bc=222425" alt="Stats" style="margin-left: 20px;" />
+</div>
+
