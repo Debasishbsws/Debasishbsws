@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/debasish-biswas-58a689286/">
     <img src="https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-    <a href="https://github.com/debasishbsws/resume/blob/main/Debasish%20Biswas%20-%20Resume.pdf">
+    <a href="https://github.com/debasishbsws/resume">
     <img src="https://img.shields.io/badge/Resume-blueviolet?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Website Badge"/>
   </a>
   <a href="https://twitter.com/debasishbsws">
