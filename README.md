@@ -17,8 +17,8 @@
 
 # :technologist: Debasish Biswas
 
-I am an Open-Source Contributor <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from INDIA.
-- :telescope: I’m currently a Student of MCA at NIT Jamshedpur and **LOOKING FOR JOBS**.
+I am an Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from INDIA.
+- :telescope: I’m currently securing the software supply chain at Chainguard.
 
 - :computer: Google Summer of Code 2023 @Knative under @CNCF
 
