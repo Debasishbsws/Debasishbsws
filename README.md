@@ -3,12 +3,12 @@
   <div id="badges">
   <a href="https://www.linkedin.com/in/debasish-biswas-58a689286/">
     <img src="https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+<!--   </a>
     <a href="https://github.com/debasishbsws/resume">
     <img src="https://img.shields.io/badge/Resume-blueviolet?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Website Badge"/>
-  </a>
+  </a> -->
   <a href="https://twitter.com/debasishbsws">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
   <img src="https://komarev.com/ghpvc/?username=debasishbsws&style=flat-square&color=blue" alt=""/>
@@ -22,7 +22,7 @@ I am an Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 
 - :computer: Google Summer of Code 2023 @Knative under @CNCF
 
-- :seedling: Exploring Technical Content Writing, and Learning DevOps Tech.
+<!-- - :seedling: Exploring Technical Content Writing, and Learning DevOps Tech. -->
 
 - :mailbox:How to reach me: [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/debasishbsws)
 
